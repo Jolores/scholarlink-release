@@ -40,13 +40,6 @@ ScholarLink is a revolutionary mobile application designed to streamline the pro
 
 Download ScholarLink today and embark on your journey to securing scholarships for your education. Whether you're a student seeking financial aid or a corporation looking to support aspiring scholars, ScholarLink is your gateway to academic success.
 
-[Download ScholarLink](#) - *Available on Google Play and the App Store*
+[Download ScholarLink]()
 
-For inquiries and support, contact us at [support@scholarlink.com](mailto:support@scholarlink.com).
-
-Follow us on social media for updates and announcements:
-- [Facebook](#)
-- [Twitter](#)
-- [Instagram](#)
-
-Join the ScholarLink community and unlock a world of opportunities for educational advancement!
+For inquiries and support, contact us at jayrmalazarte.olores@gmail.com
