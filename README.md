@@ -40,6 +40,6 @@ ScholarLink is a revolutionary mobile application designed to streamline the pro
 
 Download ScholarLink today and embark on your journey to securing scholarships for your education. Whether you're a student seeking financial aid or a corporation looking to support aspiring scholars, ScholarLink is your gateway to academic success.
 
-[Download ScholarLink](https://github.com/Jolores/scholarlink-release/releases/tag/v0.0.1)
+[Download ScholarLink](https://github.com/jayr-olores/scholarlink-release/releases/tag/v0.0.2)
 
 For inquiries and support, contact us at jayrmalazarte.olores@gmail.com
