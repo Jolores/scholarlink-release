@@ -42,4 +42,4 @@ Download ScholarLink today and embark on your journey to securing scholarships f
 
 [Download ScholarLink](https://github.com/jayr-olores/scholarlink-release/releases/tag/v0.0.4)
 
-For inquiries and support, contact us at jayrmalazarte.olores@gmail.com
+For inquiries and support, contact us at jayrmalazarte.olores@gmail.com | edzzson@gmail.com | brixsuficiencia@gmail.com
